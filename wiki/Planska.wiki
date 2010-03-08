@@ -1,4 +1,4 @@
-#summary planska dokumentacija.
+#summary Planska dokumentacija
 
 = Introduction =
 
