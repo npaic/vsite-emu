@@ -10,9 +10,9 @@ Listu treba popuniti...
 <table border="2" cellspacing="0" cellpadding="0">
   
   <tr>
-    <td width="97"></td>
-    <td width="424"></td>
-    <td width="115"></td>
+    <td width="30"></td>
+    <td width="450"></td>
+    <td width="150"></td>
   </tr>
   <tr>
     <td>1</td>
@@ -29,20 +29,20 @@ Listu treba popuniti...
     <td>instalacija MaNGos-a</td>
     <td>jure janković</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>4</td>
     <td>instalacija WoW-a s ad.exe</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>5</td>
     <td>otvaranje WoW user accounta</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>6</td>
     <td>kreiranje MAP,OBC i WMAPS na MaNGos</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
   <tr>
     <td>7</td>
@@ -129,20 +129,20 @@ Listu treba popuniti...
     <td>import osnovnog sadržaja BP</td>
     <td>igor loborec</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>24</td>
     <td>kriranje testnih account-a</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>25</td>
     <td>kreiranje testnih sustava sa testnim accountima(alfa test)</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
-  <tr>
+  <tr bgcolor="#FF0000">
     <td>26</td>
     <td>kreiranje sustava s javnim besplatnim accountima(beta test)</td>
-    <td></td>
+    <td>NE TREBA</td>
   </tr>
   <tr>
     <td>27</td>
