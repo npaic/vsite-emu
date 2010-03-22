@@ -1,0 +1,152 @@
+#summary One-sentence summary of this page.
+
+= Lista atomarnih poslova =
+
+Listu treba popuniti...
+
+
+= Tabela =
+
+<table border="2" cellspacing="0" cellpadding="0">
+  
+  <tr>
+    <td width="97"></td>
+    <td width="424"></td>
+    <td width="115"></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>instalacija MySQL servera</td>
+    <td>vjeran kokanović</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>instalacija Apache-a</td>
+    <td>vjeran kokanović</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>instalacija MaNGos-a</td>
+    <td>jure janković</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>instalacija WoW-a s ad.exe</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>otvaranje WoW user accounta</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>kreiranje MAP,OBC i WMAPS na MaNGos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>instalacija PHP-a</td>
+    <td>davorin ruševljan</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>instalacija mw Enhanced</td>
+    <td>davorin ruševljan</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>instalacija i podešavanje Quince-a na admin računalo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>napisati upute za konfiguraciju klijenta</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>dobava odgovarajuće verzije MaNGos-a</td>
+    <td>filip likarević</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>dobava odgovarajuće verzije MySQL-a</td>
+    <td>filip likarević</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>dobava odgovarajuće verzije PHP-a</td>
+    <td>nikola paic</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>dobava odgovarajuće verzije APACHE-a</td>
+    <td>nikola paic</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>dobava odgovarajuće verzije mwEnhanced</td>
+    <td>igor loborec</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>dobava ScriptDev2 prema verziji MaNGosa</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>patchiranje MaNGos source-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>postavljanje postavki Apache-a</td>
+    <td>stjepo mihaica</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>postavljanje postavki MySQL-a</td>
+    <td>stjepo mihaica</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>postavljanje postavki MaNGos-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>download osnovnih sadržaja baze podataka</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>import osnovnog sadržaja BP</td>
+    <td>igor loborec</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>kriranje testnih account-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>kreiranje testnih sustava sa testnim accountima(alfa test)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>kreiranje sustava s javnim besplatnim accountima(beta test)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>kompajliranje mangosa</td>
+    <td></td>
+  </tr>
+</table>
