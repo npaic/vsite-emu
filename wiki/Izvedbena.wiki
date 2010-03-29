@@ -1,1 +1,30 @@
 =Izvedbena=
+
+||1||<a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija MySQL servera</a>||vjeran kokanović||
+
+2	instalacija Apache-a	vjeran kokanović
+3	instalacija MaNGos-a	jure janković
+4	instalacija WoW-a s ad.exe	NE TREBA
+5	otvaranje WoW user accounta	NE TREBA
+6	kreiranje MAP,OBC i WMAPS na MaNGos	NE TREBA
+7	instalacija PHP-a	davorin ruševljan
+8	instalacija mw Enhanced	davorin ruševljan
+9	instalacija i podešavanje Quice-a na admin računalo	
+10	provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a	
+11	napisati upute za konfiguraciju klijenta	
+12	dobava odgovarajuće verzije MaNGos-a	filip likarević
+13	dobava odgovarajuće verzije MySQL-a	filip likarević
+14	dobava odgovarajuće verzije PHP-a	nikola paic
+15	dobava odgovarajuće verzije APACHE-a	nikola paic
+16	dobava odgovarajuće verzije mwEnhanced	igor loborec
+17	dobava ScriptDev2? prema verziji MaNGosa	Kobi Filip
+18	patchiranje MaNGos source-a	
+19	postavljanje postavki Apache-a	stjepo mihaica
+20	postavljanje postavki MySQL-a	stjepo mihaica
+21	postavljanje postavki MaNGos-a	
+22	download osnovnih sadržaja baze podataka	
+23	import osnovnog sadržaja BP	igor loborec
+24	kriranje testnih account-a	NE TREBA
+25	kreiranje testnih sustava sa testnim accountima(alfa test)	NE TREBA
+26	kreiranje sustava s javnim besplatnim accountima(beta test)	NE TREBA
+27	kompajliranje mangosa	Kobi Filip
