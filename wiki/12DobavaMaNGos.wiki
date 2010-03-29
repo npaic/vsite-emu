@@ -16,7 +16,7 @@ Ovo radimo pomoću sljedeće naredbe sa konzole
 
 _sudo apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core pkg-config_
 
-Nakon ovog konfiguriramo git.
+*Nakon ovog konfiguriramo git.*
 
 Prvo upisujemo _/usr/bin/git-scm_
 
@@ -24,7 +24,7 @@ Sada treba zapisati prikazane informacije i unijeti ogovarajuće kada će se to 
 
 _update-alternatives –config git_
 
-Nabavljanje izvora
+*Nabavljanje izvora*
 
 Kloniramo zadnju verziju MaNGos-a pomoću narebe
 
