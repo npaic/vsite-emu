@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary kompajliranje mangosa.FK
 
 = Introduction =
 
@@ -56,7 +56,5 @@ make install
 cd ..
 rm -r objdir
 }}}
-
-
 
 
