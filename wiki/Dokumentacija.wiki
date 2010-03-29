@@ -1,6 +1,5 @@
-= Dokumentacija =
 
-==Planska==
+<a href="http://code.google.com/p/vsite-emu/wiki/PlanskaDokumentacija"><h2>Planska</h2></a>
 <a href="http://code.google.com/p/vsite-emu/wiki/Izvedbena"><h2>Izvedbena</h2></a>
 ==Administrativna==
 ==Korisnička==
