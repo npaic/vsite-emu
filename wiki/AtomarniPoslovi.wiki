@@ -97,7 +97,7 @@ Listu treba popuniti...
   <tr>
     <td>17</td>
     <td>dobava ScriptDev2 prema verziji MaNGosa</td>
-    <td></td>
+    <td>Kobi Filip</td>
   </tr>
   <tr>
     <td>18</td>
@@ -147,6 +147,6 @@ Listu treba popuniti...
   <tr>
     <td>27</td>
     <td>kompajliranje mangosa</td>
-    <td></td>
+    <td>Kobi Filip</td>
   </tr>
 </table>
