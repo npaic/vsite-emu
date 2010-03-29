@@ -1,4 +1,4 @@
-#Kako instalirati php i mwEnhanced
+Kako instalirati php i mwEnhanced
 
 = php =
 {{{
