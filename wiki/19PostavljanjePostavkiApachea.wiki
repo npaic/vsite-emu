@@ -1,0 +1,38 @@
+19. POSTAVLJANJE POSTAVKI APACHE-a
+
+Konfiguracijska datoteka Apache poslužitelja je httpd.conf i defaultno se nalazi u /etc/httpd/conf direktoriju. Njenim sadržajem se definira ponašanje instaliranog Apache poslužitelja. Sadrži mnostvo opcija koje su već inicijalizirane prilikom instalacije, a moguće je promijeniti njihove postavke.
+
+Prije samog postupka konfiguracije, potrebno je odrediti ime poslužitelja, mrežno sučelje koje će primati zahtjeve, gdje će se nalaziti konfiguracijske i log datoteke, te u kojem će direktoriju biti smješteni korišteni dokumenti. 
+
+
+Sintaksa:
+
+- Jedna direktiva po retku (dodati “\” ako direktiva prelazi u novi red)
+- Directive nisu case sensitive
+- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije (npr. <Directory>, <Files>, <Location> i sl.)
+- Direktivom include se uključuju druge konfiguracijske datoteke ako je to potrebno
+- Komentari: # ispred linije
+- Moguće provjeriti sintaksne greške korištenjem naredbe apachectl configtest 
+
+
+Moguće je prepisati (override) direktive u httpd.conf datoteci upisivanjem u .htaccess datoteci (sintaksna pravila su jednaka), čije izmjene odmah stupaju na snagu, bez potrebe za resetiranjem.  Njene izmjene se odnose na direktorij u kojem se nalazi, te sve poddirektorije. U tom slučaju u httpd.conf datoteci ne smije postojati linija AllowOverride None.
+
+
+Neke od osnovnih opcija:
+
+- ServerTokens određuje što će se staviti u server odgovor HTTP zaglavlja (postavljanje na Prod postavlja zaglavlje HTTP odgovora u oblik “Server: Apache”)
+
+- Listen direktiva određuje port koji se sluša
+
+- Moguće je pojednostavniti rad isključenjem nepotrebnih modula koji su uključeni u Apache instalaciju. Pretraži se httpd.conf i zakomentira (#) svaka linija koja sadrži LoadModule.
+
+- Ograničavanje veličine zahtjeva se obavlja preko LimitRequestBody directive
+
+- Ograničavanje broja child procesa preko MaxClients (u slučaju nedovoljne količine memorije za obradu istodibnih zahtjeva)
+
+- Korištenjem modula mod_security se podešavaju dodatne opcije (filtriranje, granica uploada, maskiranje server identiteta, prevencija napada, …)
+
+
+Za kompletnu dokumentaciju posjetiti
+http://httpd.apache.org/docs/2.0
+gdje su detaljno objašnjeni svi parametri konfiguracijske datoteke.
