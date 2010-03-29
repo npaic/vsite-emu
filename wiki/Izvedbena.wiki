@@ -2,7 +2,7 @@
 
 ||1||<a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija MySQL servera</a>||vjeran kokanović||
 
-2	instalacija Apache-a	vjeran kokanović
+||2||instalacija Apache-a	vjeran kokanović
 3	instalacija MaNGos-a	jure janković
 4	instalacija WoW-a s ad.exe	NE TREBA
 5	otvaranje WoW user accounta	NE TREBA
