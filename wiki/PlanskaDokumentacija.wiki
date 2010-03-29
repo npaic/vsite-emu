@@ -2,9 +2,6 @@
 
 = Planska dokumentacija =
 
+<a href="http://code.google.com/p/vsite-emu/wiki/SlikaPlanskaDok"><h2>Dijagram planske dokumentacije</h2></a>
 
-
-Dijagram planske dokumentacije:
-[http://code.google.com/p/vsite-emu/wiki/SlikaPlanskaDok]
-Popis atomarnih poslova:
-[http://code.google.com/p/vsite-emu/wiki/AtomarniPoslovi]
+<a href="http://code.google.com/p/vsite-emu/wiki/AtomarniPoslovi"><h2>Popis atomarnih poslova</h2></a>
