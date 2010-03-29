@@ -1,6 +1,4 @@
-#Kako instalirati php
-
-= php =
+= instalacija php-a =
 {{{
 sudo tasksel install lamp-server
 }}}
