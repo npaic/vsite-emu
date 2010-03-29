@@ -9,18 +9,29 @@ Kako kompajlirati mangos
 
 Da bi mogli kompajlirati moramo prvo instalirati ove pakete:
 
+
 GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp)
+
 automake
+
 autoconf
+
 glibc & glibc-dev(glibc headers) [ libc6 ]
+
 make
+
 mysql-server 4.1 or mysql-server 5.0 && libmysql++-dev
+
 libtool
+
 OpenSSL (libssl-dev)
+
 subversion and patch
 git
+
 zlibc
 
+==Početak==
 Instalacija potrebnih paketa:
 {{{
 apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core cogito
@@ -56,5 +67,3 @@ make install
 cd ..
 rm -r objdir
 }}}
-
-
