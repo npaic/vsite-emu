@@ -1,0 +1,27 @@
+20. POSTAVLJANJE POSTAVKI MySQL-a
+
+Potrebno je odkomentirati (maknuti #) sljedeću liniju u konfiguracijskoj datoteci Apache-a:
+# extension=php_mysql.so
+
+Konfiguracijska datoteka mysql-a (my.cnf) je obično pod: /etc/mysql/my.conf
+
+MySql po defaultu  kreira korisnika koji radi bez lozinke. Za promjenu root lozinke koristiti:
+
+mysql> USE mysql;
+mysql> UPDATE user SET Password=PASSWORD('new-password') WHERE user='root';
+mysql> FLUSH PRIVILEGES;
+
+
+*** Kreiranje korisnika ***
+
+Korištenje root lozinke se ne bi smjelo koristiti, pa je potrebno kreirati korisnika za spajanje baze za PhP script. Jedan od načina dodavanja korisnika u bazu je korištenje panela poput webmin ili PhpMyAdmin za jednostavnu dodjelu pristupa bazi pojedinim korisnicima. 
+
+1.način: Instalacija PhpMyAdmin - može se obaviti naredbom:
+apt-get install phpmyadmin
+
+Ako se koristi uz Apache, dodati sljedecu liniju u konfiguraciju datoteku Apache-a:
+Include /etc/phpmyadmin/apache.conf
+
+2.način: Instalacija Webmin-a  - downloadom sa službenih stranica: http://www.webmin.com
+
+
