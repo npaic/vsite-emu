@@ -1,6 +1,6 @@
 = Dokumentacija =
 
 ==Planska==
-==Izvedbena==
+<a href="http://code.google.com/p/vsite-emu/wiki/Izvedbena"><h2>Izvedbena</h2></a>
 ==Administrativna==
 ==Korisnička==
