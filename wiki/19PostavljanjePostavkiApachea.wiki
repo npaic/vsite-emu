@@ -4,40 +4,42 @@ Konfiguracijska datoteka Apache poslužitelja je <b>httpd.conf</b> i defaultno s
 
 Prije samog postupka konfiguracije, potrebno je odrediti ime poslužitelja, mrežno sučelje koje će primati zahtjeve, gdje će se nalaziti konfiguracijske i log datoteke, te u kojem će direktoriju biti smješteni korišteni dokumenti. 
 
-
+<br><br>
 <b>Sintaksa</b>:
 
 - Jedna direktiva po retku (dodati “\” ako direktiva prelazi u novi red)
 
 - Directive nisu case sensitive
 
-- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije, npr: <Directory>, <Files>, <Location>
+- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije, npr: <Directory> <Files> <Location>
 
 - Direktivom include se uključuju druge konfiguracijske datoteke ako je to potrebno
 
-- Komentari: # ispred linije
+- Komentari: <b>#</b> ispred linije
 
-- Moguće provjeriti sintaksne greške korištenjem naredbe apachectl configtest 
-
-
-Moguće je prepisati (override) direktive u httpd.conf datoteci upisivanjem u .htaccess datoteci (sintaksna pravila su jednaka), čije izmjene odmah stupaju na snagu, bez potrebe za resetiranjem.  Njene izmjene se odnose na direktorij u kojem se nalazi, te sve poddirektorije. U tom slučaju u httpd.conf datoteci ne smije postojati linija AllowOverride None.
+- Moguće provjeriti sintaksne greške korištenjem naredbe <b>apachectl configtest</b> 
 
 
+Moguće je prepisati (override) direktive u httpd.conf datoteci upisivanjem u <b>.htaccess</b> datoteci (sintaksna pravila su jednaka), čije izmjene odmah stupaju na snagu, bez potrebe za resetiranjem.  Njene izmjene se odnose na direktorij u kojem se nalazi, te sve poddirektorije. U tom slučaju u httpd.conf datoteci ne smije postojati linija <b>AllowOverride None</b>.
+
+<br><br>
 Neke od osnovnih opcija:
 
-- ServerTokens određuje što će se staviti u server odgovor HTTP zaglavlja (postavljanje na Prod postavlja zaglavlje HTTP odgovora u oblik “Server: Apache”)
+- <b>ServerTokens</b> određuje što će se staviti u server odgovor HTTP zaglavlja (postavljanje na Prod postavlja zaglavlje HTTP odgovora u oblik “Server: Apache”)
 
-- Listen direktiva određuje port koji se sluša
+- <b>Listen</b> direktiva određuje port koji se sluša
 
-- Moguće je pojednostavniti rad isključenjem nepotrebnih modula koji su uključeni u Apache instalaciju. Pretraži se httpd.conf i zakomentira (#) svaka linija koja sadrži LoadModule.
+- Moguće je pojednostavniti rad isključenjem nepotrebnih modula koji su uključeni u Apache instalaciju. Pretraži se httpd.conf i zakomentira (#) svaka linija koja sadrži <b>LoadModule</b>.
 
-- Ograničavanje veličine zahtjeva se obavlja preko LimitRequestBody directive
+- Ograničavanje veličine zahtjeva se obavlja preko <b>LimitRequestBody</b> directive
 
-- Ograničavanje broja child procesa preko MaxClients (u slučaju nedovoljne količine memorije za obradu istodibnih zahtjeva)
+- Ograničavanje broja child procesa preko <b>MaxClients</b> (u slučaju nedovoljne količine memorije za obradu istodibnih zahtjeva)
 
-- Korištenjem modula mod_security se podešavaju dodatne opcije (filtriranje, granica uploada, maskiranje server identiteta, prevencija napada, …)
+- Korištenjem modula <b>mod_security</b> se podešavaju dodatne opcije (filtriranje, granica uploada, maskiranje server identiteta, prevencija napada, …)
 
-
+<br><br>
 Za kompletnu dokumentaciju posjetiti
-http://httpd.apache.org/docs/2.0
+
+<b>http://httpd.apache.org/docs/2.0</b>
+
 gdje su detaljno objašnjeni svi parametri konfiguracijske datoteke.
