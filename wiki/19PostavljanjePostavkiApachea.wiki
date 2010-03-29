@@ -1,4 +1,4 @@
-19. POSTAVLJANJE POSTAVKI APACHE-a
+== Heading == <b>19. POSTAVLJANJE POSTAVKI APACHE-a</b>
 
 Konfiguracijska datoteka Apache poslužitelja je httpd.conf i defaultno se nalazi u /etc/httpd/conf direktoriju. Njenim sadržajem se definira ponašanje instaliranog Apache poslužitelja. Sadrži mnostvo opcija koje su već inicijalizirane prilikom instalacije, a moguće je promijeniti njihove postavke.
 
