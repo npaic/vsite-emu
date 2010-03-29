@@ -56,8 +56,8 @@ Listu treba popuniti...
   </tr>
   <tr>
     <td>9</td>
-    <td>instalacija i podešavanje Quince-a na admin računalo</td>
-    <td></td>
+    <td>instalacija i podešavanje Quice-a na admin računalo</td>
+    <td>Kobi Filip</td>
   </tr>
   <tr>
     <td>10</td>
