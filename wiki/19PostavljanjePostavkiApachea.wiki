@@ -8,10 +8,15 @@ Prije samog postupka konfiguracije, potrebno je odrediti ime poslužitelja, mre�
 Sintaksa:
 
 - Jedna direktiva po retku (dodati “\” ako direktiva prelazi u novi red)
+
 - Directive nisu case sensitive
-- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije (npr. <Directory>, <Files>, <Location> i sl.)
+
+- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije, npr: <Directory>, <Files>, <Location>
+
 - Direktivom include se uključuju druge konfiguracijske datoteke ako je to potrebno
+
 - Komentari: # ispred linije
+
 - Moguće provjeriti sintaksne greške korištenjem naredbe apachectl configtest 
 
 
