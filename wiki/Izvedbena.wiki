@@ -1,28 +1,8 @@
 =Izvedbena=
 
-{| border="1" cellpadding="2"
-!width="50"|Name
-!width="225"|Effect
-!width="225"|Games Found In
-|-
-|Poké Ball || Regular Poké Ball || All Versions
-|-
-|Great Ball || Better than a Poké Ball || All Versions
-|}
+||1. <a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija MySQL servera</a>||vjeran kokanović||
 
-{| border="1" cellpadding="2"
-!width="50"|Broj
-!width="225"|Naziv
-!width="225"|Ime i prezime
-|-
-|1||<a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija MySQL servera</a>||vjeran kokanović
-|-
-|Great Ball || Better than a Poké Ball || All Versions
-|}
-
-
-||1||
-||2||instalacija Apache-a	vjeran kokanović
+||2. <a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija Apache-a</a>||vjeran kokanović
 3	instalacija MaNGos-a	jure janković
 4	instalacija WoW-a s ad.exe	NE TREBA
 5	otvaranje WoW user accounta	NE TREBA
