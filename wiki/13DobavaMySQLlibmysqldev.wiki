@@ -1,0 +1,8 @@
+*Dobava odgovarajuće verzije MySQL-a*
+
+Da bi nabavili MySQL moramo u konzoli utipkati _apt-get install mysql-server_
+
+*Dobava libmysql++-dev*
+
+Libmysql++-dev dobavljamo preko http://packages.debian.org/sid/libmysql++-dev
+ 
