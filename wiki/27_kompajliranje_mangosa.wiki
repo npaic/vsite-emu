@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Koko kompajlirati mangos
+Kako kompajlirati mangos
 
 
 = Details =
@@ -22,11 +22,21 @@ git
 zlibc
 
 Instalacija potrebnih paketa:
-{{{apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core cogito
+{{{
+apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core cogito
 }}}
-{{{update-alternatives --config git}}}
+{{{
+
+za korištenje git a ne gitfm, moramo koristiti ovo
+{{{
+update-alternatives --config git
+}}}
+
+update-alternatives --config git}}}
 Onda moramo upisati broj koji se slaže odavde:
-{{{/usr/bin/git-scm}}}
+{{{
+/usr/bin/git-scm
+}}}
 
 Za download fajlova iz git repositorija, git mora kreirati tvoj mangos source direktorij:
 {{{git clone git://github.com/mangos/mangos.git
@@ -35,7 +45,8 @@ cd mangos}}}
 Zatim trebamo dobaviti i patchirati ScriptDev2.  Taj postupak opisan je pod `17. dobava ScriptDev2? prema verziji MaNGosa`
 
 Kompajliranje:
-{{{// za dual core support na make, na make install dodamo na kraj "-j2"
+{{{
+// za dual core support na make, na make install dodamo na kraj "-j2"
 autoreconf --install --force
 mkdir objdir
 cd objdir
@@ -43,7 +54,8 @@ cd objdir
 make
 make install
 cd ..
-rm -r objdir}}}
+rm -r objdir
+}}}
 
 
 
