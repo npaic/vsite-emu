@@ -1,0 +1,78 @@
+#summary One-sentence summary of this page.
+
+= Instalacija MySql-a =
+
+==*Dobava*==
+
+#wget http://dev.mysql.com/get/Downloads/MySQL-5.0/mysql-5.0.18.tar.gz/from/http://gd.tuwien.ac.at/db/mysql/
+
+#tar -zxvf mysql-5.0.18.tar.gz
+
+#cd mysql-5.0.18
+
+#sudo ./configure --prefix=/opt/mysql-5.0.18 --localstatedir=/opt/mysql-5.0.18 --with-innodb --without-debug --with-tcp-port=3308 --with-mysqld-user=mysql --with-unix-socket-path=/tmp/mysql-5.0.18.sock
+
+===Instalacija===
+
+#sudo make install
+
+#sudo mkdir -p /var/lib/mysql5
+
+#sudo chown mysql.mysql /var/lib/mysql5
+
+#cd /opt/mysql-5.0.18/bin
+
+#sudo ./mysql_install_db --datadir=/var/lib/mysql5 --user=mysql
+
+go to the source files
+
+#sudo cp mysql-5.0.18/support-files/mysql.server /etc/init.d/mysql-5.0.18
+
+modify this variable in start-up script
+
+datadir=/var/lib/mysql5
+
+sudo vi /etc/init.d/mysql-5.0.1
+
+create in /opt/mysql-5.0.18 my.cnf file with this content
+
+$ cat my.cnf
+
+[mysqld]
+user = mysql
+port = 3308
+
+#cd /etc/init.d
+
+#update-rc.d mysql-5.0.18 defaults
+
+PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
+
+To do so, start the server, then issue the following commands:
+
+#/opt/mysql-5.0.18/bin/mysqladmin -u root password 'new-password'
+#/opt/mysql-5.0.18/bin/mysqladmin -u root -h example password 'new-password'
+
+You can do the same thing from mysql batch processor
+
+#/opt/mysql-5.0.18/bin/mysql -u root -h
+
+#SET PASSWORD FOR 'root'@'example' = PASSWORD('******');
+
+See the manual for more instructions.
+
+You can start the MySQL daemon with:
+
+#cd /opt/mysql-5.0.18 ; /opt/mysql-5.0.18/bin/mysqld_safe &
+
+or with the init.d script 
+
+#cd /etc/init.d
+
+# chmod +x mysql-5.0.18
+
+# update-rc.d mysql-5.0.18
+
+creating databases
+
+#/opt/mysql-5.0.18/bin/mysql -u root -h localhost.localdomain -P 3308 -p
