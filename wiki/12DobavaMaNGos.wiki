@@ -11,6 +11,7 @@ Za pocetak treba instalirati sljedeće:
 •	subversion and patch 
 •	git 
 •	zlibc 
+
 Ovo radimo pomoću sljedeće naredbe sa konzole
 _sudo apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core pkg-config_
 
