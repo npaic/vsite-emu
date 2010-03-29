@@ -1,17 +1,17 @@
 =19. POSTAVLJANJE POSTAVKI APACHE-a=
 
-Konfiguracijska datoteka Apache poslužitelja je httpd.conf i defaultno se nalazi u /etc/httpd/conf direktoriju. Njenim sadržajem se definira ponašanje instaliranog Apache poslužitelja. Sadrži mnostvo opcija koje su već inicijalizirane prilikom instalacije, a moguće je promijeniti njihove postavke.
+Konfiguracijska datoteka Apache poslužitelja je <b>httpd.conf</b> i defaultno se nalazi u <i>/etc/httpd/conf</i> direktoriju. Njenim sadržajem se definira ponašanje instaliranog Apache poslužitelja. Sadrži mnostvo opcija koje su već inicijalizirane prilikom instalacije, a moguće je promijeniti njihove postavke.
 
 Prije samog postupka konfiguracije, potrebno je odrediti ime poslužitelja, mrežno sučelje koje će primati zahtjeve, gdje će se nalaziti konfiguracijske i log datoteke, te u kojem će direktoriju biti smješteni korišteni dokumenti. 
 
 
-Sintaksa:
+<b>Sintaksa</b>:
 
-* Jedna direktiva po retku (dodati “\” ako direktiva prelazi u novi red)
+- Jedna direktiva po retku (dodati “\” ako direktiva prelazi u novi red)
 
-* Directive nisu case sensitive
+- Directive nisu case sensitive
 
-* Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije, npr: <Directory>, <Files>, <Location>
+- Direktive smještene u glavnoj konfiguracijskoj datoteci se primjenjuju na cijeli server; opseg direktive se može ograničiti “zatvaranjem” u sekcije, npr: <Directory>, <Files>, <Location>
 
 - Direktivom include se uključuju druge konfiguracijske datoteke ako je to potrebno
 
