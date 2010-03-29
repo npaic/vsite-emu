@@ -1,0 +1,15 @@
+#summary Dobava mwEnhanced-a
+
+== Pozicioniranje i kreiranje direktorija ==
+
+{{{
+cd ~
+mkdir mwEnhanced
+cd mwEnhanced
+}}}
+
+== Dobava .rar arhive s potrebnim sadržajem ==
+
+{{{
+wget http://mwenhanced.googlecode.com/files/MangosWeb_Enhanced_CleanCopy_HgFiles_Included.rar
+}}}
