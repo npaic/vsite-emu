@@ -17,7 +17,7 @@ Korišteći svn skinemo zadnju verziju ScriptDev2
 svn co https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/src/bindings/ScriptDev2
 }}}
 
-Sada moramo patchirati ScriptDev2 U mangos. To nam omogučuje kompajliranje ScriptDev2-a sa mangosom
+Sada moramo patchirati ScriptDev2 U mangos. To nam omogučuje kompajliranje ScriptDev2-a sa mangosom.
 {{{
-git apply src/bindings/ScriptDev2/patches/MaNGOS-XXXX-ScriptDev2.patch
+git apply src/bindings/ScriptDev2/patches/MaNGOS-11403-ScriptDev2.patch
 }}}
