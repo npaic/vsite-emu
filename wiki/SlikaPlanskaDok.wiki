@@ -1,8 +1,4 @@
-#summary One-sentence summary of this page.
 
-= Slika =
-
-Add your content here.
-
+Dijagram
 
 [http://vsite-emu.googlecode.com/files/Sirovi%20projekt.jpg]
