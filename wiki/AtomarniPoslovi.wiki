@@ -57,7 +57,7 @@ Listu treba popuniti...
   <tr>
     <td>9</td>
     <td>instalacija i podešavanje Quice-a na admin računalo</td>
-    <td>Kobi Filip</td>
+    <td></td>
   </tr>
   <tr>
     <td>10</td>
