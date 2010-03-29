@@ -1,8 +1,10 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-Add your content here.
+= Planska dokumentacija =
 
 
+
+Dijagram planske dokumentacije:
 [http://code.google.com/p/vsite-emu/wiki/SlikaPlanskaDok]
+Popis atomarnih poslova:
+[http://code.google.com/p/vsite-emu/wiki/AtomarniPoslovi]
