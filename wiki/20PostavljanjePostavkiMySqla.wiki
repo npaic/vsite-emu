@@ -1,6 +1,7 @@
 20. POSTAVLJANJE POSTAVKI MySQL-a
 
 Potrebno je odkomentirati (maknuti #) sljedeću liniju u konfiguracijskoj datoteci Apache-a:
+
 # extension=php_mysql.so
 
 Konfiguracijska datoteka mysql-a (my.cnf) je obično pod: /etc/mysql/my.conf
@@ -23,5 +24,3 @@ Ako se koristi uz Apache, dodati sljedecu liniju u konfiguraciju datoteku Apache
 Include /etc/phpmyadmin/apache.conf
 
 2.način: Instalacija Webmin-a  - downloadom sa službenih stranica: http://www.webmin.com
-
-
