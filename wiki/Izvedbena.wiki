@@ -1,55 +1,143 @@
-||1||<a href="http://code.google.com/p/vsite-emu/wiki/MySqlInstalacija">instalacija MySQL servera</a>||vjeran kokanović||
-
-
-||2||   instalacija Apache-a||  vjeran kokanović||
-
-||3||   instalacija MaNGos-a||  jure janković||
-
-||4||   instalacija WoW-a s ad.exe||    NE TREBA||
-
-||5||   otvaranje WoW user accounta||   NE TREBA||
-
-||6||   kreiranje MAP,OBC i WMAPS na MaNGos||   NE TREBA||
-
-||7||   instalacija PHP-a||     davorin ruševljan||
-
-||8||   instalacija mw Enhanced||       davorin ruševljan||
-
-||9||   instalacija i podešavanje Quice-a na admin računalo|| ||        
-
-||10||  provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a|| ||   
-
-||11||  napisati upute za konfiguraciju klijenta|| ||
-
-||12||  dobava odgovarajuće verzije MaNGos-a||  filip likarević||
-
-||13||  dobava odgovarajuće verzije MySQL-a||   filip likarević||
-
-||14||  dobava odgovarajuće verzije PHP-a||     nikola paic||
-
-||15||  dobava odgovarajuće verzije APACHE-a||  nikola paic||
-
-||16||  dobava odgovarajuće verzije mwEnhanced||        igor loborec||
-
-||17||  dobava ScriptDev2? prema verziji MaNGosa||      Kobi Filip||
-
-
-||18||  patchiranje MaNGos source-a||   ||
-
-||19||  postavljanje postavki Apache-a||        stjepo mihaica||
-
-||20||  postavljanje postavki MySQL-a|| stjepo mihaica||
-
-||21||  postavljanje postavki MaNGos-a||        ||
-
-||22||  download osnovnih sadržaja baze podataka|| ||   
-
-||23||  import osnovnog sadržaja BP||   igor loborec||
-
-||24||  kriranje testnih account-a||    NE TREBA||
-
-||25||  kreiranje testnih sustava sa testnim accountima(alfa test)||    NE TREBA||
-
-||26||  kreiranje sustava s javnim besplatnim accountima(beta test)||   NE TREBA||
-
-||27||  kompajliranje mangosa|| Kobi Filip||
+<table width="700" border="0">
+  
+ <tr>
+    <td width="44" align="center" scope="col"><strong>Broj</strong></td>
+    <td width="439" scope="col"><strong>Naziv atomarnog posla</strong></td>
+    <td width="143" scope="col"><strong>Ime i Prezime</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>instalacija MySQL servera</td>
+    <td>Vjeran Kokanović</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td>instalacija Apache-a</td>
+    <td>Vjeran Kokanović</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td>instalacija MaNGos-a</td>
+    <td>Jure Janković</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td>instalacija WoW-a s ad.exe</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td>otvaranje WoW user accounta</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td>kreiranje MAP,OBC i WMAPS na MaNGos</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">7</td>
+    <td>instalacija PHP-a</td>
+    <td>Davorin Ruševljan</td>
+  </tr>
+  <tr>
+    <td align="center">8</td>
+    <td>instalacija mw Enhanced</td>
+    <td>Davorin Ruševljan</td>
+  </tr>
+  <tr>
+    <td align="center">9</td>
+    <td>instalacija i podešavanje Quice-a na admin računalo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">10</td>
+    <td>provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">11</td>
+    <td>napisati upute za konfiguraciju klijenta</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td>dobava odgovarajuće verzije MaNGos-a</td>
+    <td>Filip Likarević</td>
+  </tr>
+  <tr>
+    <td align="center">13</td>
+    <td>dobava odgovarajuće verzije MySQL-a</td>
+    <td>Filip Likarević</td>
+  </tr>
+  <tr>
+    <td align="center">14</td>
+    <td>dobava odgovarajuće verzije PHP-a</td>
+    <td>Nikola Paić</td>
+  </tr>
+  <tr>
+    <td align="center">15</td>
+    <td>dobava odgovarajuće verzije APACHE-a</td>
+    <td>Nikola Paić</td>
+  </tr>
+  <tr>
+    <td align="center">16</td>
+    <td>dobava odgovarajuće verzije mwEnhanced</td>
+    <td>Igor Loborec</td>
+  </tr>
+  <tr>
+    <td align="center">17</td>
+    <td>dobava ScriptDev2 prema verziji MaNGosa</td>
+    <td>Filip Kobi</td>
+  </tr>
+  <tr>
+    <td align="center">18</td>
+    <td>patchiranje MaNGos source-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">19</td>
+    <td>postavljanje postavki Apache-a</td>
+    <td>Stjepo Mihaica</td>
+  </tr>
+  <tr>
+    <td align="center">20</td>
+    <td>postavljanje postavki MySQL-a</td>
+    <td>Stjepo Mihaica</td>
+  </tr>
+  <tr>
+    <td align="center">21</td>
+    <td>postavljanje postavki MaNGos-a</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">22</td>
+    <td>download osnovnih sadržaja baze podataka</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">23</td>
+    <td>import osnovnog sadržaja BP</td>
+    <td>Igor Loborec</td>
+  </tr>
+  <tr>
+    <td align="center">24</td>
+    <td>kriranje testnih account-a</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">25</td>
+    <td>kreiranje testnih sustava sa testnim accountima(alfa test)</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">26</td>
+    <td>kreiranje sustava s javnim besplatnim accountima(beta test)</td>
+    <td>NE TREBA</td>
+  </tr>
+  <tr>
+    <td align="center">27</td>
+    <td>kompajliranje mangosa</td>
+    <td>Filip Kobi</td>
+  </tr>
+</table>
