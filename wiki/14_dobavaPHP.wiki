@@ -1,0 +1,7 @@
+=Dobava PHP-a=
+
+PHP se dobavlja na način da u konzoli upisujemo naredbe prvu nakon izvršenja druge:
+
+{{{sudo apt-get install php5}}}
+
+{{{sudo apt-get install libapache-mod-php5}}}
