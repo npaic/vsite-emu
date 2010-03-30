@@ -2,7 +2,7 @@
 
 Za pocetak treba instalirati sljedeće:
 
---- GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp) 
+GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp) 
 
 --- automake 
 
