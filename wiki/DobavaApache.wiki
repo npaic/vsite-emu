@@ -1,5 +1,0 @@
-=Dobava Apache-a=
-
-Apache se dobavlja na nacin da u konzoli upišeno naredbu:
-
-{{{sudo apt-get install apache2}}}
