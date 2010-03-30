@@ -1,6 +1,6 @@
 =Dobava PHP-a=
 
-PHP se dobavlja na način da u konzoli upisujemo naredbe prvu nakon izvršenja druge:
+PHP se dobavlja na način da u konzoli upišemo prvu naredbu, nakon izvršenja prve upisujemo drugu naredbu:
 
 {{{sudo apt-get install php5}}}
 
