@@ -7,137 +7,137 @@
   </tr>
   <tr>
     <td align="center">1</td>
-    <td>instalacija MySQL servera</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/1_instalacija_MySQL_servera">instalacija MySQL servera</a></td>
     <td>Vjeran Kokanović</td>
   </tr>
   <tr>
     <td align="center">2</td>
-    <td>instalacija Apache-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/2_instalacija_apache">instalacija Apache-a</a></td>
     <td>Vjeran Kokanović</td>
   </tr>
   <tr>
     <td align="center">3</td>
-    <td>instalacija MaNGos-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/3_Instalacija_MaNGOSa">instalacija MaNGos-a</a></td>
     <td>Jure Janković</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td>instalacija WoW-a s ad.exe</td>
+    <td><a href=""></a>instalacija WoW-a s ad.exe</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">5</td>
-    <td>otvaranje WoW user accounta</td>
+    <td><a href=""></a>otvaranje WoW user accounta</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">6</td>
-    <td>kreiranje MAP,OBC i WMAPS na MaNGos</td>
+    <td><a href=""></a>kreiranje MAP,OBC i WMAPS na MaNGos</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">7</td>
-    <td>instalacija PHP-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/7_instalacija_php_a">instalacija PHP-a</a></td>
     <td>Davorin Ruševljan</td>
   </tr>
   <tr>
     <td align="center">8</td>
-    <td>instalacija mw Enhanced</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/8_instalacija_mw_Enhanced">instalacija mw Enhanced</a></td>
     <td>Davorin Ruševljan</td>
   </tr>
   <tr>
     <td align="center">9</td>
-    <td>instalacija i podešavanje Quice-a na admin računalo</td>
+    <td><a href=""></a>instalacija i podešavanje Quice-a na admin računalo</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">10</td>
-    <td>provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a</td>
+    <td><a href=""></a>provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">11</td>
-    <td>napisati upute za konfiguraciju klijenta</td>
+    <td><a href=""></a>napisati upute za konfiguraciju klijenta</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">12</td>
-    <td>dobava odgovarajuće verzije MaNGos-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/12DobavaMaNGos">dobava odgovarajuće verzije MaNGos-a</a></td>
     <td>Filip Likarević</td>
   </tr>
   <tr>
     <td align="center">13</td>
-    <td>dobava odgovarajuće verzije MySQL-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/13DobavaMySQLlibmysqldev">dobava odgovarajuće verzije MySQL-a</a></td>
     <td>Filip Likarević</td>
   </tr>
   <tr>
     <td align="center">14</td>
-    <td>dobava odgovarajuće verzije PHP-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/14_dobava_odgovarajuce_verzije_PHPa">dobava odgovarajuće verzije PHP-a</a></td>
     <td>Nikola Paić</td>
   </tr>
   <tr>
     <td align="center">15</td>
-    <td>dobava odgovarajuće verzije APACHE-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/15_dobava_odgovarajuce_verzije_APACHEa">dobava odgovarajuće verzije APACHE-a</a></td>
     <td>Nikola Paić</td>
   </tr>
   <tr>
     <td align="center">16</td>
-    <td>dobava odgovarajuće verzije mwEnhanced</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/16_dobavaMwEnhanced">dobava odgovarajuće verzije mwEnhanced</a></td>
     <td>Igor Loborec</td>
   </tr>
   <tr>
     <td align="center">17</td>
-    <td>dobava ScriptDev2 prema verziji MaNGosa</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/17_dobava_ScriptDev2_prema_verziji_mangosa">dobava ScriptDev2 prema verziji MaNGosa</a></td>
     <td>Filip Kobi</td>
   </tr>
   <tr>
     <td align="center">18</td>
-    <td>patchiranje MaNGos source-a</td>
+    <td><a href=""></a>patchiranje MaNGos source-a</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">19</td>
-    <td>postavljanje postavki Apache-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/19_postavljanje_postavki_Apachea">postavljanje postavki Apache-a</a></td>
     <td>Stjepo Mihaica</td>
   </tr>
   <tr>
     <td align="center">20</td>
-    <td>postavljanje postavki MySQL-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/20_Postavljanje_Postavki_MySqla">postavljanje postavki MySQL-a</a></td>
     <td>Stjepo Mihaica</td>
   </tr>
   <tr>
     <td align="center">21</td>
-    <td>postavljanje postavki MaNGos-a</td>
+    <td><a href=""></a>postavljanje postavki MaNGos-a</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">22</td>
-    <td>download osnovnih sadržaja baze podataka</td>
+    <td><a href=""></a>download osnovnih sadržaja baze podataka</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">23</td>
-    <td>import osnovnog sadržaja BP</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/23_ImportOsnovnogSadrzajaBP">import osnovnog sadržaja BP</a></td>
     <td>Igor Loborec</td>
   </tr>
   <tr>
     <td align="center">24</td>
-    <td>kriranje testnih account-a</td>
+    <td><a href=""></a>kriranje testnih account-a</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">25</td>
-    <td>kreiranje testnih sustava sa testnim accountima(alfa test)</td>
+    <td><a href=""></a>kreiranje testnih sustava sa testnim accountima(alfa test)</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">26</td>
-    <td>kreiranje sustava s javnim besplatnim accountima(beta test)</td>
+    <td><a href=""></a>kreiranje sustava s javnim besplatnim accountima(beta test)</td>
     <td>NE TREBA</td>
   </tr>
   <tr>
     <td align="center">27</td>
-    <td>kompajliranje mangosa</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/27_kompajliranje_mangosa">kompajliranje mangosa</a></td>
     <td>Filip Kobi</td>
   </tr>
 </table>
