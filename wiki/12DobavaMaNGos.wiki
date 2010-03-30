@@ -26,7 +26,7 @@ Za pocetak treba instalirati sljedeće:
 
 Ovo radimo pomoću sljedeće naredbe sa konzole
 
-sudo apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core pkg-config_
+_sudo apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core pkg-config_
 
 *Nakon ovog konfiguriramo git.*
 
