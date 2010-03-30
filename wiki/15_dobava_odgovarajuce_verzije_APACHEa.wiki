@@ -1,12 +1,5 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
+=Dobava Apache-a=
 
 Apache se dobavlja na nacin da u konzoli upišeno naredbu:
 
-sudo apt-get install apache2
+{{{sudo apt-get install apache2}}}
