@@ -1,9 +1,9 @@
-<table width="700" border="0">
+<table width="630" border="0">
   
  <tr>
     <td width="44" align="center" scope="col"><strong>Broj</strong></td>
-    <td width="439" scope="col"><strong>Naziv atomarnog posla</strong></td>
-    <td width="143" scope="col"><strong>Ime i Prezime</strong></td>
+    <td width="389" scope="col"><strong>Naziv atomarnog posla</strong></td>
+    <td width="123" scope="col"><strong>Ime i Prezime</strong></td>
   </tr>
   <tr>
     <td align="center">1</td>
