@@ -42,4 +42,4 @@ Kloniramo zadnju verziju MaNGos-a pomoću narebe
 
 _git clone git://github.com/mangos/mangos.git mangos_
 
-Nakon ovog se moze prijeći na kompajliranje izvora.
+Nakon ovog koraka se može prijeći na kompajliranje izvora.
