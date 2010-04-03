@@ -1,4 +1,4 @@
-
+<a href="http://code.google.com/p/vsite-emu/wiki/Dokumentacija">back</a>
 = Planska dokumentacija =
 
 <a href="http://code.google.com/p/vsite-emu/wiki/SlikaPlanskaDok"><h2>Dijagram planske dokumentacije</h2></a>
