@@ -1,3 +1,5 @@
+<a href="http://code.google.com/p/vsite-emu/wiki/PlanskaDokumentacija">back</a>
+
 = Ganttov dijagram =
 
 [http://vsite-emu.googlecode.com/files/Ganttov_dijagram.gif]
