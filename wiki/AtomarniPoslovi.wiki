@@ -1,5 +1,7 @@
 <a href="http://code.google.com/p/vsite-emu/wiki/PlanskaDokumentacija">back</a>
 
+<a href="http://code.google.com/p/vsite-emu/wiki/Start">WIKI HOME</a>
+
 <table width="700" border="1">
   
  <tr>
