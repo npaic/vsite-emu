@@ -1,5 +1,5 @@
 <a href="http://code.google.com/p/vsite-emu/wiki/PlanskaDokumentacija">back</a>
 
-Dijagram
+=Dijagram=
 
 [http://vsite-emu.googlecode.com/files/Sirovi%20projekt.jpg]
