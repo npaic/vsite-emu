@@ -95,8 +95,8 @@
   </tr>
   <tr>
     <td align="center">18</td>
-    <td><a href=""></a>patchiranje MaNGos source-a</td>
-    <td></td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/18_patchiranje_MaNGos_sourcea">patchiranje MaNGos source-a</a></td>
+    <td>Ruševljan Davorin</td>
   </tr>
   <tr>
     <td align="center">19</td>
