@@ -52,7 +52,7 @@
   <tr>
     <td align="center">9</td>
     <td>instalacija i podešavanje Quice-a na admin računalo</td>
-    <td></td>
+    <td>Kobi Filip</td>
   </tr>
   <tr>
     <td align="center">10</td>
