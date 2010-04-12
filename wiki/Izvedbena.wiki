@@ -115,8 +115,8 @@
   </tr>
   <tr>
     <td align="center">22</td>
-    <td><a href=""></a>download osnovnih sadržaja baze podataka</td>
-    <td></td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/22_download_baze">download osnovnih sadržaja baze podataka</a></td>
+    <td>Nikola Paić</td>
   </tr>
   <tr>
     <td align="center">23</td>
