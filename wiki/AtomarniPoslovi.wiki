@@ -57,7 +57,7 @@
   <tr>
     <td align="center">10</td>
     <td>provjera i dobava svih potrebnih alata za kompajliranje MaNGos-a</td>
-    <td></td>
+    <td>Stjepo Mihaica</td>
   </tr>
   <tr>
     <td align="center">11</td>
@@ -112,7 +112,7 @@
   <tr>
     <td align="center">21</td>
     <td>postavljanje postavki MaNGos-a</td>
-    <td></td>
+    <td>Goran Vukoja</td>
   </tr>
   <tr>
     <td align="center">22</td>
