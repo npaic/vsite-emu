@@ -1,0 +1,61 @@
+Potrebni alati su:
+
+•	GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp) <br>
+•	automake <br>
+•	autoconf <br>
+•	glibc & glibc-dev(glibc headers) [ libc6 ] <br>
+•	make <br>
+•	mysql-server 4.1 or mysql-server 5.0 && libmysql++-dev <br>
+•	libtool <br>
+•	OpenSSL (libssl-dev) <br>
+•	subversion and patch <br>
+•	git <br>
+•	zlibc <br>
+
+Mogu se nabaviti upisivanjem sljedeceg u Terminal:
+
+<b>sudo apt-get install gcc g++ automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git git-core pkg-config</b>
+
+<br><br>
+Da bi pravilno konfigurirali git (buduci da Debian po defaultu pokrece drugu aplikaciju), pokrenuti:
+
+<b>/usr/bin/git-scm</b>
+
+Zabiljeziti prikazane informacije i upisati potrebne podatke nakon pokretanja naredbi:
+
+<b>update-alternatives --config git</b>
+
+<br><br>
+Dobava Mangos source koda moze se obaviti kloniranjem posljednje verzije:
+git clone git://github.com/mangos/mangos.git mangos
+
+Zatim uci u novokreirani folder: 
+
+<b>cd mangos</b>
+
+te unutar njega kreirati folder za ScriptDev2:
+
+<b>mkdir src/bindings/ScriptDev2</b>
+
+<br><br>
+Patchiranje ScriptDev2 u Mangos:
+
+<b>git apply src/bindings/ScriptDev2/patches/MaNGOS-XXXX-ScriptDev2.patch</b>
+
+Ako je patchiranje bilo uspjesno, kompajliranje se moze obaviti sljedecim naredbama:
+
+<b>autoreconf --install --force
+mkdir objdir
+cd objdir
+../configure --prefix=/opt/mangos --sysconfdir=/opt/mangos/etc --datadir=/opt/mangos
+make
+make install
+make clean
+cd ..
+rm -r objdir</b>
+
+Izmjeniti 4.naredbu na sljedeci nacin:
+
+<b>../configure --prefix=<u>[working path]</u> --sysconfdir=<u>[working path]</u>/etc  --datadir=<u>[working path]</u></b>
+
+i dodati vlastiti path na odgovarajuca (podcrtana) mjesta.
