@@ -27,7 +27,7 @@ Zabiljeziti prikazane informacije i upisati potrebne podatke nakon pokretanja na
 
 <br><br>
 Dobava Mangos source koda moze se obaviti kloniranjem posljednje verzije:
-git clone git://github.com/mangos/mangos.git mangos
+<b>git clone git://github.com/mangos/mangos.git mangos</b>
 
 Zatim uci u novokreirani folder: 
 
