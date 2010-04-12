@@ -117,7 +117,7 @@
   <tr>
     <td align="center">22</td>
     <td>download osnovnih sadržaja baze podataka</td>
-    <td></td>
+    <td>Nikola Paić</td>
   </tr>
   <tr>
     <td align="center">23</td>
