@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+9. instalacija i podešavanje Quice-a na admin računalo
+
+
+= Details =
+
+==Instalacija==
+Sa ove stranice skinemo odgovarajuću verziju (1.2.47)
+
+http://quice.indomit.ru/?act=2&lang=en
+
+otpakiramo te pokrenemo.
+
+==Spajanje==
+
+Nakon pokretanja Quicea u formi moramo popuniti odogvarajuče podatke:
+Ime servera, Username, Password, Port. Te nakon toga izaberemo characters, mangos,relmd i script.
+
+Pod server napišemo ip adresu i port servera na kojem se nalazi sql baza te zatim odgovarajući username i password.
