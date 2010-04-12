@@ -3,10 +3,14 @@
 = Introduction =
 
 9. instalacija i podešavanje Quice-a na admin računalo
+web page: http://quice.indomit.ru/?act=0&lang=en
+
 
 
 = Details =
-
+== O Quice-u==
+Quice je MaNGOS database Editor
+Ima mogučnost Quest Editor, Creature Editor, GameObject Editor, Item Editor, i još manjih mogučnosti.
 ==Instalacija==
 Sa ove stranice skinemo odgovarajuću verziju (1.2.47)
 
