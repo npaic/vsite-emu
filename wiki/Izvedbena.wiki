@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td align="center">9</td>
-    <td><a href="http://code.google.com/p/vsite-emu/wiki/9_instalacija_i_podesavanje_Quicea_na_admin_racunalo">9_instalacija_i_podesavanje_Quicea_na_admin_racunalo</a></td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/9_instalacija_i_podesavanje_Quicea_na_admin_racunalo">instalacija i podesavanje Quicea na admin racunalo</a></td>
     <td>Kobi Filip</td>
   </tr>
   <tr>
