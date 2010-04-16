@@ -32,7 +32,7 @@ Prvo se radi "build"
   make
   make install
 
-Ukoliko do sad nije bilo problema, ,slijedi konfiguracija.
+Ukoliko do sad nije bilo problema, slijedi konfiguracija.
 Ona se svodi na editiranje httpd.conf file. 
 Datoteka je smještena u PREFIX/conf direktoriju. 
 Editira se sa vi:
