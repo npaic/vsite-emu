@@ -3,7 +3,9 @@
 APACHE
 
   gunzip -d httpd-2_0_NN.tar.gz
+
   tar xvf httpd-2_0_NN.tar
+
 Ovo kreira novi direktorij unutar trenutnog direktorija.
 
 Konfiguriranje
