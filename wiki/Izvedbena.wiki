@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center">11</td>
-    <td><a href=""></a>napisati upute za konfiguraciju klijenta</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/11_upute_za_konfiguraciju_klijenta"></a>napisati upute za konfiguraciju klijenta</td>
     <td>Jure Janković</td>
   </tr>
   <tr>
