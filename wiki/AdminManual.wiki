@@ -3,3 +3,5 @@
 <a href="http://code.google.com/p/vsite-emu/wiki/Start">WIKI HOME</a>
 
 =Administrativna=
+
+<a href="http://code.google.com/p/vsite-emu/wiki/Podatci_o_bazi">o bazi</a>
