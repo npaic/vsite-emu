@@ -1,3 +1,7 @@
+<a href="http://code.google.com/p/vsite-emu/wiki/Izvedbena">Izvedbena dokumentacija</a>
+
+<a href="http://code.google.com/p/vsite-emu/wiki/Start">WIKI HOME</a>
+
 =Dobava PHP-a=
 
 
