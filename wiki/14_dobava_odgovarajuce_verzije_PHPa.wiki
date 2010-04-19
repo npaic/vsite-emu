@@ -1,7 +1,13 @@
 =Dobava PHP-a=
 
-PHP se dobavlja na način da u konzoli upišemo prvu naredbu, nakon izvršenja prve upisujemo drugu naredbu:
+
+potrebna verzija: >5.x
+
+
+PHP se dobavlja na način da u konzoli upišemo prvu naredbu: 
 
 {{{sudo apt-get install php5}}}
+
+nakon izvršavanja upisujemo drugu naredbu:
 
 {{{sudo apt-get install libapache-mod-php5}}}
