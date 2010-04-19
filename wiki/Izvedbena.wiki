@@ -61,7 +61,7 @@
   <tr>
     <td align="center">11</td>
     <td><a href=""></a>napisati upute za konfiguraciju klijenta</td>
-    <td></td>
+    <td>Jure Janković</td>
   </tr>
   <tr>
     <td align="center">12</td>
