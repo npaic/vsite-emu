@@ -14,16 +14,12 @@ Ova stranica služi kao uputa za konfiguraciju World of Warcraft klijenta za spa
 
 4. Pokrenite instalaciju patcha 3.3.2 i instalirajte ga u Wow Private Server direktorij. (Ako vam ne ponudi gdje ga instalirate, automatski će se instalirati u vaš privani server direktorij).
 
-5. Ovaj dio je polu-obvezan. Ovisi o tome želite li imati Ahn-Qiraj stvari na privatnom serveru. Ako se želite spajati na 1.9.0 hakirani server, možete skinuti 1.9.0 EMU patch (to NIJE isti kao Blizzardov i korištenje Blizzardovog 1.9.0 će onemogućiti spajanja na privatni server.) Patch instalirajte u vaš privatni WoW server direktorij.
+5. Potražite server na nekoj listi privatnih servera npr. http://wowstatus.net/serverlist.php ili ih drukčije nađite. Kliknite na ime servera da bi dosli na stranicu s informacijama o serveru.
 
-6. Ako ste instalirali 1.9.0 emu hack, otiđite u WoW private server direktorij i u njemu DATA, i onda u DBFilesClient. U DBFilesClient direktoriju pobrišite datoteku "Spell.dbc." Ako to ne pobrišete, WoW neće raditi.
+6. Da bi igrali na serveru, potrebno se registrirati na taj server.
 
-7. Potražite server na nekoj listi privatnih servera npr. http://wowstatus.net/serverlist.php ili ih drukčije nađite. Kliknite na ime servera da bi dosli na stranicu s informacijama o serveru.
+7. Kada ste se registrirali na server, potrebno je pronaći adresu servera. Vratite se na stranicu s informacijama o serveru i pronači ćete adresu servera.
 
-8. Da bi igrali na serveru, potrebno se registrirati na taj server.
-
-9. Kada ste se registrirali na server, potrebno je pronaći adresu servera. Vratite se na stranicu s informacijama o serveru i pronači ćete adresu servera.
-
-10. Kada ste pronašli adresu servera, vratite se u vaš WoW Private Server direktorij, i pronađite datoteku "Realmlist.wtf" Nalazi se u  It's in the regular WoW private server direktorij, NE u WTF direktoriju. Otvorite Realmlist.wtf notepad-om. Kada ga otvorite vidjet ćete, [ set realmlist us.logon.worldofwarcraft.com ] ili [ set realmlist eu.logon.worldofwarcraft.com ] ovisno o verziju koju igrate. Sada promjenite adresu u adresu privatnog servera koji koristite. (npr. [ set realmlist xxx.xxx.xxx ]) Nakon toga spremite datoteku.
+8. Kada ste pronašli adresu servera, vratite se u vaš WoW Private Server direktorij, i pronađite datoteku "Realmlist.wtf" Nalazi se u  It's in the regular WoW private server direktorij, NE u WTF direktoriju. Otvorite Realmlist.wtf notepad-om. Kada ga otvorite vidjet ćete, [ set realmlist us.logon.worldofwarcraft.com ] ili [ set realmlist eu.logon.worldofwarcraft.com ] ovisno o verziju koju igrate. Sada promjenite adresu u adresu privatnog servera koji koristite. (npr. [ set realmlist xxx.xxx.xxx ]) Nakon toga spremite datoteku.
 	
-11. U private server direktoriju pokrenite WoW. Prijavite se kao i inače! (možete igrati na 1.9.0 hakiranim serverima sa 1.8.0, ali nećete moći pristupiti novim stvarima).
+9. U private server direktoriju pokrenite WoW. Prijavite se kao i inače!
