@@ -10,7 +10,7 @@ Ova stranica služi kao uputa za konfiguraciju World of Warcraft klijenta za spa
 
 2. Ponovno instalirati World of Warcraft. Instalacijski program će vas pitati gdje želite staviti World of Warcraft. Pretpostavljeno se instalira u direktorij C:\Program Files\World of Warcraft, ali umjesto toga preimenujte direktorij u C:\Program Files\PrivateServerWoW (ili nešto slično). Napomena: nemojte dodati ikonu (shortcut) na desktop.
 
-3. Nakon što ste instalirali World of Warcraft, NEMOJTE se spajati na server! Ako to učinite, WoW će se ažurirati (update) na najnoviju verziju, a to nije poželjno! Umjesto toga, skinite patch 3.3.2.
+3. Nakon što ste instalirali World of Warcraft, NEMOJTE se spajati na server! Ako to učinite, WoW će se ažurirati (update) na najnoviju verziju, a to nije poželjno! Umjesto toga, skinite patch 3.3.2. <a href="http://www.bigdownload.com/games/world-of-warcraft-wrath-of-the-lich-king/pc/world-of-warcraft-v33a-to-v332-patch-us/">ovdje</a>
 
 4. Pokrenite instalaciju patcha 3.3.2 i instalirajte ga u Wow Private Server direktorij. (Ako vam ne ponudi gdje ga instalirate, automatski će se instalirati u vaš privani server direktorij).
 
