@@ -1,28 +1,28 @@
 ==Dobava odgovoarajuće verzije MaNGos-a==
 
-Za pocetak treba instalirati sljedeće:
+Za pocetak treba instalirati sljedeće pakete:
 
---- GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp) 
+-- GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp) 
 
---- automake 
+-- automake 
 
---- autoconf 
+-- autoconf 
 
---- glibc & glibc-dev(glibc headers) [ libc6 ] 
+-- glibc & glibc-dev(glibc headers) [ libc6 ] 
 
---- make 
+-- make 
 
---- mysql-server 4.1 or mysql-server 5.0 && libmysql++-dev 
+-- mysql-server 4.1 or mysql-server 5.0 && libmysql++-dev 
 
---- libtool 
+-- libtool 
 
---- OpenSSL (libssl-dev) 
+-- OpenSSL (libssl-dev) 
 
---- subversion and patch 
+-- subversion and patch 
 
---- git 
+-- git 
 
---- zlibc 
+-- zlibc 
 
 Ovo radimo pomoću sljedeće naredbe sa konzole
 
