@@ -1,3 +1,8 @@
 db_name: vsite_emu
 
 user_name: master ->p: blaster
+
+
+db_name: mangos
+
+user_name:master ->blaster
