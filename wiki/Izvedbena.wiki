@@ -132,7 +132,7 @@
   <tr>
     <td align="center">NE</td>
     <td align="center">21</td>
-    <td><a href=""></a>postavljanje postavki MaNGos-a</td>
+    <td><a href="http://code.google.com/p/vsite-emu/wiki/21PostavljanjePostavkiMaNGosa">postavljanje postavki MaNGos-a</a></td>
     <td>Goran Vukoja</td>
   </tr>
   <tr>
