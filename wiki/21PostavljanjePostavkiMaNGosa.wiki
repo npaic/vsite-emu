@@ -1,3 +1,8 @@
+Tutorial
+
+http://mangos-debian.blogspot.com/2009/03/compiling-mangos-on-debian-4050.html
+
+
 mpqe download link
 
 http://filebeam.com/9512c5cc36ca9223183bdeec5a4b5c65
