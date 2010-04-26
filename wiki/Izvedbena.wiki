@@ -21,11 +21,11 @@
     <td><a href="http://code.google.com/p/vsite-emu/wiki/2_instalacija_apache">instalacija Apache-a</a></td>
     <td>Vjeran Kokanović</td>
   </tr>
-  <tr>
+  <tr >
     <td align="center">NE</td>
     <td align="center">3</td>
     <td><a href="http://code.google.com/p/vsite-emu/wiki/3_Instalacija_MaNGOSa">instalacija MaNGos-a</a></td>
-    <td>Jure Janković</td>
+    <td>Jure Janković</td> 
   </tr>
   <tr>
     <td align="center">NE</td>
@@ -132,7 +132,7 @@
   <tr>
     <td align="center">NE</td>
     <td align="center">21</td>
-    <td><a href="http://code.google.com/p/vsite-emu/wiki/21PostavljanjePostavkiMaNGosa">postavljanje postavki MaNGos-a</a></td>
+    <td><a href=""></a>postavljanje postavki MaNGos-a</td>
     <td>Goran Vukoja</td>
   </tr>
   <tr>
