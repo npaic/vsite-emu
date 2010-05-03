@@ -43,6 +43,8 @@ Upute___________________________________________________________________________
 
 Pr.
 
+<i>
+
 #####################################
 # MaNGOS Configuration file #
 #####################################
@@ -81,14 +83,15 @@ UseProcessors = 0
 ProcessPriority = 1
 RealmsStateUpdateDelay = 20
 
-
+############################################
 # ScriptDev2 Configuration file
+############################################
 # This file must be placed within the directory which holds mangosd.conf and realmd.conf
 ConfVersion=2008011901
 
 ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
-
+</i>
 
 3.Extractanje mapa iz World of Warcraft instalacije
 
@@ -131,8 +134,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
