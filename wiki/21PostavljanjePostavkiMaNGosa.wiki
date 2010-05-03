@@ -1,7 +1,11 @@
 Downloadi_______________________________________________________________________________
 
-mpqe download link
+samo MPQE
 http://filebeam.com/9512c5cc36ca9223183bdeec5a4b5c65
+
+AD.exe + MPQE
+
+http://www.megaupload.com/?d=MJ9ZOEEJ
 
 Tutoriali_______________________________________________________________________________
 
@@ -113,8 +117,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
