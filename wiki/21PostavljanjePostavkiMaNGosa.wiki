@@ -105,8 +105,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
      * Trebao bi extractirati iz ovih datoteka: 
 
 
--It should extract dbc files from the following: "Patch-enUS-2.mpq", "Patch-enUS.mpq", "Locale-enUS.mpq"
-
     * Kada je extractiranje gotovo kopirajte dbc datoteke u "dbc-folder" u ManGos direktoriju.
 
     * Nakon toga obrišite dbc datoteke iz WoW foldera (trebalo bi biti oko 176 file-ova).
@@ -115,8 +113,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
