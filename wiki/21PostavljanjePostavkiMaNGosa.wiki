@@ -7,6 +7,10 @@ AD.exe + MPQE
 
 http://www.megaupload.com/?d=MJ9ZOEEJ
 
+VMAP
+
+http://filebeam.com/0fa2b9b14812d70f953cce099609f92b
+
 Tutoriali_______________________________________________________________________________
 
 http://mangos-debian.blogspot.com/2009/03/compiling-mangos-on-debian-4050.html
@@ -127,8 +131,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
