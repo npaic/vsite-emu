@@ -1,8 +1,16 @@
-Tutoriali
+Downloadi_______________________________________________________________________________
+
+mpqe download link
+http://filebeam.com/9512c5cc36ca9223183bdeec5a4b5c65
+
+Tutoriali_______________________________________________________________________________
 
 http://mangos-debian.blogspot.com/2009/03/compiling-mangos-on-debian-4050.html
 http://wowps.org/forum/t52-guide_setting_up_mangos_server.html
 http://wowps.org/forum/t69-mangos_upgrade_latest_revision.html
+http://www.maxcheaters.com/forum/index.php?topic=25216.0;wap2
+
+Upute___________________________________________________________________________________
 
 1. u MySql-u napraviti sve potrebne baze
 
@@ -11,8 +19,102 @@ http://wowps.org/forum/t69-mangos_upgrade_latest_revision.html
     * Nakon toga je potrebno baze restorati iz sql-dumpa
       "realmd.sql" restorati realmd bazu.
 
-    * Bazu "mangos" ćemo restorati iz skripte SilverDataBase (SDB)
-      za mangos (http://sourceforge.net/projects/sdbmangos/) 
+    * Bazu "mangos" ćemo restorati iz Silver DB (SDB)
+      za mangos.
+      Verzija baze ovisi o verziji Mangos-a.(Pronaći iz ovog foruma     http://forum.ragezone.com/f114/mangos-latest-binaries-and-sdb-with-no-support-questions-only-files-166402/index19.html)
+      Pr. SDB 2383 "http://filebeam.com/00258bcce780fc6e9410380996a821a3".
+
+
+
+2. Podešavanje konfiguracije
+
+    * U mangos direktoriju u folderu se nalaze dvije konfiguracijske datoteke        "Mangod.conf" i "Realmd.conf", tu treba biti i "ScriptDev2.conf".
+
+
+Pr.
+
+#####################################
+# MaNGOS Configuration file #
+#####################################
+ConfVersion=2008022901
+
+RealmID = 1
+DataDir = "data"
+LogsDir = "Logs"
+LoginDatabaseInfo = "127.0.0.1;3306;root;password;realmd"
+WorldDatabaseInfo = "127.0.0.1;3306;root;password;mangos"
+CharacterDatabaseInfo = "127.0.0.1;3306;root;password;characters"
+MaxPingTime = 30
+WorldServerPort = 8085
+BindIP = "0.0.0.0"
+
+
+
+############################################
+# MaNGOS realmd configuration file #
+############################################
+ConfVersion=2007062001
+
+LoginDatabaseInfo = "127.0.0.1;3306;root;password;realmd"
+LogsDir = "logs"
+MaxPingTime = 30
+RealmServerPort = 3724
+BindIP = "0.0.0.0"
+PidFile = "./realmd.pid"
+LogLevel = 0
+LogTime = 0
+LogFile = "Realmd.log"
+LogTimestamp = 0
+LogFileLevel = 0
+LogColors = ""
+UseProcessors = 0
+ProcessPriority = 1
+RealmsStateUpdateDelay = 20
+
+
+# ScriptDev2 Configuration file
+# This file must be placed within the directory which holds mangosd.conf and realmd.conf
+ConfVersion=2008011901
+
+ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
+
+
+
+3.Extractanje mapa iz World of Warcraft instalacije
+
+    * Stavite ad.exe u WoW instalacijski direktorij
+    * Tamo kreirajte novi direktorij zvan "maps"
+    * Pokrenite "ad.exe" i pričekajte
+    * Kada je gotovo kopirajte "maps" direktorij u ManGOS folder.
+    * Obrišite maps direktorij iz WoW foldera
+    * U maps folderu bi trebalo biti 3000+ mapa
+
+
+4. Extractiranje DBC
+
+
+    * U ManGos direktoriju kreirajte folder "dbc"
+    * Stavite "mpqe.exe" u {WoW instalacijski direktorij}\Data\enUS (ili euro ovisi o verziji)
+    * Pokrenite mpqe sa parametrima
+
+        mpqe /p locale-enUS.MPQ DBFilesClient\*.dbc
+
+    * mpqe će početi extractirati dbc datoteke u folder MPQOUT\DBFilesClient
+
+
+     * Trebao bi extractirati iz ovih datoteka: 
+
+
+-It should extract dbc files from the following: "Patch-enUS-2.mpq", "Patch-enUS.mpq", "Locale-enUS.mpq"
+
+    * Kada je extractiranje gotovo kopirajte dbc datoteke u "dbc-folder" u ManGos direktoriju.
+
+    * Nakon toga obrišite dbc datoteke iz WoW foldera (trebalo bi biti oko 176 file-ova).
+
+
+
+
+      
 
 
 
@@ -28,8 +130,3 @@ http://wowps.org/forum/t69-mangos_upgrade_latest_revision.html
 
 
 
-
-
-mpqe download link
-
-http://filebeam.com/9512c5cc36ca9223183bdeec5a4b5c65
