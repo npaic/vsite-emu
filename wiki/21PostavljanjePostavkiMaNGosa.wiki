@@ -14,6 +14,8 @@ http://wowps.org/forum/t52-guide_setting_up_mangos_server.html
 http://wowps.org/forum/t69-mangos_upgrade_latest_revision.html
 http://www.maxcheaters.com/forum/index.php?topic=25216.0;wap2
 
+http://www.mmowned.com/forums/mangos-guides/154004-guide-how-create-make-vmaps-your-mangos-server-1-2-3-user-friendly.html
+
 Upute___________________________________________________________________________________
 
 1. u MySql-u napraviti sve potrebne baze
@@ -94,7 +96,15 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
     * U maps folderu bi trebalo biti 3000+ mapa
 
 
-4. Extractiranje DBC
+4. Extrakcija Virtualnih mapa
+
+    * Odzipajte VMAPS.zip u WoW instalacijski direktorij.
+    * Pokrenite "makevmaps_simple.bat" batch file.
+    * Nakon što završi kreirati će se folder "vmaps".
+    * Kopirajte "vmaps" direktorij u ManGOS folder.
+
+
+5. Extractiranje DBC
 
 
     * U ManGos direktoriju kreirajte folder "dbc"
@@ -117,8 +127,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
