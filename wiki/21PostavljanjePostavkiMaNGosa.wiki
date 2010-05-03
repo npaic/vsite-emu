@@ -1,6 +1,33 @@
-Tutorial
+Tutoriali
 
 http://mangos-debian.blogspot.com/2009/03/compiling-mangos-on-debian-4050.html
+http://wowps.org/forum/t52-guide_setting_up_mangos_server.html
+http://wowps.org/forum/t69-mangos_upgrade_latest_revision.html
+
+1. u MySql-u napraviti sve potrebne baze
+
+    * Kreirati dvije baze, prva se treba zvati "realmd", a druga "mangos".
+
+    * Nakon toga je potrebno baze restorati iz sql-dumpa
+      "realmd.sql" restorati realmd bazu.
+
+    * Bazu "mangos" ćemo restorati iz skripte SilverDataBase (SDB)
+      za mangos (http://sourceforge.net/projects/sdbmangos/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 mpqe download link
