@@ -22,7 +22,7 @@ http://www.mmowned.com/forums/mangos-guides/154004-guide-how-create-make-vmaps-y
 
 Upute___________________________________________________________________________________
 
-1. u MySql-u napraviti sve potrebne baze
+<b>1. u MySql-u napraviti sve potrebne baze</b>
 
     * Kreirati dvije baze, prva se treba zvati "realmd", a druga "mangos".
 
@@ -36,7 +36,7 @@ Upute___________________________________________________________________________
 
 
 
-2. Podešavanje konfiguracije
+<b>2. Podešavanje konfiguracije</b>
 
     * U mangos direktoriju u folderu se nalaze dvije konfiguracijske datoteke        "Mangod.conf" i "Realmd.conf", tu treba biti i "ScriptDev2.conf".
 
@@ -93,7 +93,7 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 </i>
 
-3.Extractanje mapa iz World of Warcraft instalacije
+<b>3.Extractanje mapa iz World of Warcraft instalacije</b>
 
     * Stavite ad.exe u WoW instalacijski direktorij
     * Tamo kreirajte novi direktorij zvan "maps"
@@ -103,7 +103,7 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
     * U maps folderu bi trebalo biti 3000+ mapa
 
 
-4. Extrakcija Virtualnih mapa
+<b>4. Extrakcija Virtualnih mapa</b>
 
     * Odzipajte VMAPS.zip u WoW instalacijski direktorij.
     * Pokrenite "makevmaps_simple.bat" batch file.
@@ -111,7 +111,7 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
     * Kopirajte "vmaps" direktorij u ManGOS folder.
 
 
-5. Extractiranje DBC
+<b>5. Extractiranje DBC</b>
 
 
     * U ManGos direktoriju kreirajte folder "dbc"
@@ -134,8 +134,6 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
 
 
