@@ -166,7 +166,7 @@
     <td>NE TREBA</td>
   </tr>
   <tr>
-    <td align="center">NE</td>
+    <td align="center">DA</td>
     <td align="center">27</td>
     <td><a href="http://code.google.com/p/vsite-emu/wiki/27_kompajliranje_mangosa">kompajliranje mangosa</a></td>
     <td>Filip Kobi</td>
