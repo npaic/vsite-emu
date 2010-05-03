@@ -22,7 +22,7 @@
     <td>Vjeran Kokanović</td>
   </tr>
   <tr >
-    <td align="center">NE</td>
+    <td align="center">DA</td>
     <td align="center">3</td>
     <td><a href="http://code.google.com/p/vsite-emu/wiki/3_Instalacija_MaNGOSa">instalacija MaNGos-a</a></td>
     <td>Jure Janković</td> 
