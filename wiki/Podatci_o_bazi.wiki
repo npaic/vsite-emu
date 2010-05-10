@@ -9,5 +9,4 @@ user_name:master ->blaster
 
 administrativno web sučelje
 
-adminweb
-web12admin
+user_name:adminweb ->web12admin
