@@ -1,3 +1,4 @@
+<app:draft>
 db_name: vsite_emu
 
 user_name: master ->p: blaster
@@ -10,3 +11,4 @@ user_name:master ->blaster
 administrativno web sučelje
 
 user_name:adminweb ->web12admin
+<app:draft>
