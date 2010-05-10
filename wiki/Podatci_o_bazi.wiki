@@ -6,3 +6,8 @@ user_name: master ->p: blaster
 db_name: mangos
 
 user_name:master ->blaster
+
+administrativno web sučelje
+
+adminweb
+web12admin
