@@ -4,4 +4,4 @@
 
 alternativni web front end
 
-http://sourceforge.net/projects/mangos-wf-v3/
+http://mangos-wf-v3.sourceforge.net/
