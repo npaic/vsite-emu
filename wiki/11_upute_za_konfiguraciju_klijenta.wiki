@@ -21,6 +21,6 @@ Možda će biti potrebno patchirati prvo na verziju 3.0.1 pa na 3.2.0 zatim na 3
 
 7. Kada ste se registrirali na server, potrebno je pronaći adresu servera. Vratite se na stranicu s informacijama o serveru i pronači ćete adresu servera.
 
-8. Kada ste pronašli adresu servera, vratite se u vaš WoW Private Server direktorij, i pronađite datoteku "Realmlist.wtf" Nalazi se u  It's in the regular WoW private server direktorij, NE u WTF direktoriju. Otvorite Realmlist.wtf notepad-om. Kada ga otvorite vidjet ćete, *set realmlist us.logon.worldofwarcraft.com* ili *set realmlist eu.logon.worldofwarcraft.com* ovisno o verziju koju igrate. Sada promjenite adresu u adresu privatnog servera koji koristite. (npr. *set realmlist xxx.xxx.xxx*) Nakon toga spremite datoteku.
+8. Kada ste pronašli adresu servera, vratite se u vaš WoW Private Server direktorij, i pronađite datoteku "Realmlist.wtf" Nalazi se u  It's in the regular WoW private server direktorij, NE u WTF direktoriju. Otvorite Realmlist.wtf notepad-om. Kada ga otvorite vidjet ćete, *set realmlist us.logon.worldofwarcraft.com* ili *set realmlist eu.logon.worldofwarcraft.com* ovisno o verziju koju igrate. Sada promjenite adresu u adresu privatnog servera koji koristite. (npr. *set realmlist 193.198.56.140) Nakon toga spremite datoteku.
 
 9. U private server direktoriju pokrenite WoW. Prijavite se kao i inače!
