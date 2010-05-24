@@ -1,18 +1,3 @@
 #patchiranje MaNGos source-a
 
-= Patch MaNGOS w/ SD2 =
-
-Where going to apply the SD2 patch
-
-{{{
-~# git am src/bindings/ScriptDev2/patches/MaNGOS-*
-}}}
-
-= sto radi git am naredba =
-
-git-am - Apply a series of patches from a mailbox
-
-vise informacija o git am: http://www.kernel.org/pub/software/scm/git/docs/git-am.html
-= Izvor informacija =
-
-http://getmangos.com/wiki/Compile_MaNGOS_On_Ubuntu
+objasnjeno u 	 12DobavaMaNGos
