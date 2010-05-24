@@ -26,12 +26,9 @@ Upute___________________________________________________________________________
 
     * Kreirati dvije baze, prva se treba zvati "realmd",druga "mangos", treća "characters".
 
-    * Nakon toga je potrebno baze restorati iz sql-dumpa
-      "realmd.sql" restorati realmd bazu.
-
-    * Bazu "mangos" ćemo restorati iz YTDB
-      za mangos.
-    * Characters iz charactrs.sql.
+    * Nakon toga je potrebno baze restorati iz sql-dumpa "realmd.sql" restorati realmd bazu.
+    * Bazu "mangos" ćemo restorati iz YTDB za mangos.
+    * Characters iz characters.sql
 
 
 
@@ -133,4 +130,3 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
