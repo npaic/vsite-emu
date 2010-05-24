@@ -3,13 +3,13 @@
 == Pozicioniranje i kreiranje direktorija ==
 
 {{{
-cd ~
-mkdir mwEnhanced
+cd /home/mangos
+mkdir mw
 cd mwEnhanced
 }}}
 
 == Dobava .rar arhive s potrebnim sadržajem ==
 
 {{{
-wget http://mwenhanced.googlecode.com/files/MangosWeb_Enhanced_CleanCopy_HgFiles_Included.rar
+wget http://mwenhanced.googlecode.com/files/MangosWebEnhanced_Rev45_Patch3.3.3a.rar
 }}}
