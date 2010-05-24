@@ -1,7 +1,3 @@
 = Start =
 
 <a href="http://code.google.com/p/vsite-emu/wiki/Dokumentacija"><h2>Dokumentacija</h2></a>
-
-alternativni web front end
-
-http://mangos-wf-v3.sourceforge.net/
