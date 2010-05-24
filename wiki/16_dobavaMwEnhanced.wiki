@@ -5,7 +5,7 @@
 {{{
 cd /home/mangos
 mkdir mw
-cd mwEnhanced
+cd mw
 }}}
 
 == Dobava .rar arhive s potrebnim sadržajem ==
