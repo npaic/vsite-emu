@@ -8,8 +8,8 @@ sudo apt-get install unrar
 raspakiravanje source coda u document root direktoriju
 
 {{{
-cd gdje-je-vec-document-root
-unrar e ~/mwEnhanced/MangosWeb_Enhanced_CleanCopy_HgFiles_Included.rar
+cd /var/www/www.vsite.hr
+unrar e /home/mangos/mw/MangosWebEnhanced_Rev45_Patch3.3.3a.rar
 }}}
 
 omogucavanje instalacije
