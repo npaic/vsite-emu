@@ -37,7 +37,7 @@ Kompajliranje:
 autoreconf --install --force
 mkdir objdir
 cd objdir
-../configure --prefix=/opt/mangos --sysconfdir=/opt/mangos/etc --enable-cli --enable-ra --datadir=/opt/mangos/dat
+../configure --prefix=/homeopt/mangos --sysconfdir=/homeopt/mangos/etc --enable-cli --enable-ra --datadir=/homeopt/mangos/dat
 make
 make install
 cd ..
