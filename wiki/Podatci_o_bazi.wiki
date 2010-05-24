@@ -1,5 +1,7 @@
 -->World db: 127.0.01;3306;mangos;mangos;mangos
+
 -->Character db: 127.0.01;3306;mangos;mangos;character
+
 -->Login db: 127.0.01;3306;mangos;mangos;realm
 
 user_name: master ->p: blaster
