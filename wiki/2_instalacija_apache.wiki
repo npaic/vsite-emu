@@ -45,3 +45,6 @@ Testiranje servera
 Otvorite preglednik i upišite http://localhost/ in the address box.
 Ukoliko velikim slovima piše "Seeing this instead of the website you expected?",
 server je dobro instaliran. 
+
+document root:
+coffe:/var/www/www.vsite.hr
