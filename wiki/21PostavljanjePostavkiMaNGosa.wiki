@@ -24,15 +24,14 @@ Upute___________________________________________________________________________
 
 <b>1. u MySql-u napraviti sve potrebne baze</b>
 
-    * Kreirati dvije baze, prva se treba zvati "realmd", a druga "mangos".
+    * Kreirati dvije baze, prva se treba zvati "realmd",druga "mangos", treća "characters".
 
     * Nakon toga je potrebno baze restorati iz sql-dumpa
       "realmd.sql" restorati realmd bazu.
 
-    * Bazu "mangos" ćemo restorati iz Silver DB (SDB)
+    * Bazu "mangos" ćemo restorati iz YTDB
       za mangos.
-      Verzija baze ovisi o verziji Mangos-a.(Pronaći iz ovog foruma     http://forum.ragezone.com/f114/mangos-latest-binaries-and-sdb-with-no-support-questions-only-files-166402/index19.html)
-      Pr. SDB 2383 "http://filebeam.com/00258bcce780fc6e9410380996a821a3".
+    * Characters iz charactrs.sql.
 
 
 
@@ -134,6 +133,4 @@ ScriptDev2DatabaseInfo = "127.0.0.1;3306;root;password;scriptdev2"
 
 
       
-
-
 
