@@ -4,4 +4,4 @@
 
 =Administrativna=
 
-<a href="http://code.google.com/p/vsite-emu/wiki/Podatci_o_bazi">o bazi</a>
+<a href="https://docs.google.com/Doc?docid=0AUdwtCdeeciMZGNucWJ6al8zOWZmOWs4d2N2&hl=en">o bazi</a>
