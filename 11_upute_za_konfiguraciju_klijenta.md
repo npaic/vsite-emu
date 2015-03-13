@@ -1,0 +1,25 @@
+# Uvod #
+
+Ova stranica služi kao uputa za konfiguraciju World of Warcraft klijenta za spajanje na privatni WoW server.
+
+
+# Upute #
+
+1. Preimenovati World of Warcraft direktorij, npr. u wowow, tako da se i dalje zna da je to World of Warcraft direktorij. Na Windowsima se "World of Warcraft" direktorij obično nalazi u C:\Program Files
+
+2. Ponovno instalirati World of Warcraft. Instalacijski program će vas pitati gdje želite staviti World of Warcraft. Pretpostavljeno se instalira u direktorij C:\Program Files\World of Warcraft, ali umjesto toga preimenujte direktorij u C:\Program Files\PrivateServerWoW (ili nešto slično). Napomena: nemojte dodati ikonu (shortcut) na desktop.
+
+3. Nakon što ste instalirali World of Warcraft, NEMOJTE se spajati na server! Ako to učinite, WoW će se ažurirati (update) na najnoviju verziju, a to nije poželjno! Umjesto toga, skinite patch 3.3.3 npr. <a href='http://www.bigdownload.com/games/world-of-warcraft-wrath-of-the-lich-king/pc/world-of-warcraft-v332-to-v333-patch-us/'>ovdje</a>.
+Možda će biti potrebno patchirati prvo na verziju 3.0.1 pa na 3.2.0 zatim na 3.3.2 i na kraju na 3.3.3 <a href='http://www.wowwiki.com/Patch_mirrors'>popis patch mirrora</a>.
+
+4. Pokrenite instalaciju patcha 3.3.3 i instalirajte ga u Wow Private Server direktorij. (Ako vam ne ponudi gdje ga instalirate, automatski će se instalirati u vaš privani server direktorij).
+
+5. Potražite server na nekoj listi privatnih servera npr. http://wowstatus.net/serverlist.php ili se spojite na 193.198.56.140. Kliknite na ime servera da bi dosli na stranicu s informacijama o serveru.
+
+6. Da bi igrali na serveru, potrebno se registrirati na taj server.
+
+7. Kada ste se registrirali na server, potrebno je pronaći adresu servera. Vratite se na stranicu s informacijama o serveru i pronači ćete adresu servera.
+
+8. Kada ste pronašli adresu servera, vratite se u vaš WoW Private Server direktorij, i pronađite datoteku "Realmlist.wtf" Nalazi se u  It's in the regular WoW private server direktorij, NE u WTF direktoriju. Otvorite Realmlist.wtf notepad-om. Kada ga otvorite vidjet ćete, **set realmlist us.logon.worldofwarcraft.com** ili **set realmlist eu.logon.worldofwarcraft.com** ovisno o verziju koju igrate. Sada promjenite adresu u adresu privatnog servera koji koristite. (npr. **set realmlist 193.198.56.140**) Nakon toga spremite datoteku.
+
+9. U private server direktoriju pokrenite WoW. Prijavite se kao i inače!

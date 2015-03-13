@@ -1,0 +1,43 @@
+# Introduction #
+
+Kako kompajlirati mangos
+
+
+# Details #
+
+Da bi mogli kompajlirati moramo prvo instalirati pakete.
+Taj postupak pogledajte pod brojem 10.
+
+
+## Početak ##
+
+
+za korištenje git a ne gitfm, moramo koristiti ovo
+```
+update-alternatives --config git
+```
+
+update-alternatives --config git}}}
+Onda moramo upisati broj koji se slaže odavde:
+```
+/usr/bin/git-scm
+```
+
+Za download fajlova iz git repositorija, git mora kreirati tvoj mangos source direktorij:
+{{{git clone git://github.com/mangos/mangos.git
+cd mangos}}}
+
+Zatim trebamo dobaviti i patchirati ScriptDev2.  Taj postupak opisan je pod `17. dobava ScriptDev2? prema verziji MaNGosa`
+
+Kompajliranje:
+```
+// za dual core support na make, na make install dodamo na kraj "-j2"
+autoreconf --install --force
+mkdir objdir
+cd objdir
+../configure --prefix=/home/opt/mangos --sysconfdir=/home/opt/mangos/etc --enable-cli --enable-ra --datadir=/home/opt/mangos/dat
+make
+make install
+cd ..
+rm -r objdir
+```

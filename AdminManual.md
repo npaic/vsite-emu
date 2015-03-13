@@ -1,0 +1,12 @@
+<a href='http://code.google.com/p/vsite-emu/wiki/Dokumentacija'>back</a>
+
+<a href='http://code.google.com/p/vsite-emu/wiki/Start'>WIKI HOME</a>
+
+# Administrativna #
+
+
+
+Ovim podatcima mogu pristupiti samo suradnici na projektu!!!
+
+
+Podatci <a href='https://docs.google.com/Doc?docid=0AUdwtCdeeciMZGNucWJ6al8zOWZmOWs4d2N2&hl=en'>o bazi</a>

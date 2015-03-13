@@ -1,0 +1,13 @@
+## Pozicioniranje i kreiranje direktorija ##
+
+```
+cd /home/mangos
+mkdir mw
+cd mw
+```
+
+## Dobava .rar arhive s potrebnim sadržajem ##
+
+```
+wget http://mwenhanced.googlecode.com/files/MangosWebEnhanced_Rev45_Patch3.3.3a.rar
+```

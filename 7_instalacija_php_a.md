@@ -1,0 +1,56 @@
+# instalacija php-a #
+```
+sudo tasksel install lamp-server
+```
+treba naci konfiguracijsku datoteku za apache
+
+```
+sudo find / -name httpd.conf 
+```
+
+a zatim u njoj treba naci document root od apache-a (u iducoj naredbi prilagoditi putanju do httpd.conf datoteke tako da odgovara putanji koju smo našli prethodnom naredbom
+
+```
+grep -i 'DocumentRoot' /usr/local/etc/apache22/httpd.conf
+```
+
+prijeci u document root direktorij
+
+```
+cd gdje-je-vec-document-root
+```
+
+u document root direktoriju napraviti datoteku version.php sa sljedecim sadrzajem:
+
+```
+<?php 
+
+phpinfo();
+
+?>
+```
+
+promijeniti prava za version.php
+
+```
+chmod ugo+r version.php
+```
+
+u web pregledniku otici na adresu:
+
+```
+http://localhost/version.php
+```
+
+u ispisanoj stranici provjeriti jesu li verzije i postavke za php, mysql i GD odgovarajuce:
+
+  * Apache v2.2.x
+  * MySQL 5.0.x
+  * Php version 5.x
+  * GD compiled into Php
+
+izbrisati version.php
+
+```
+rm version.php
+```

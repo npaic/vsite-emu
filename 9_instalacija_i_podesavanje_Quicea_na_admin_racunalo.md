@@ -1,0 +1,25 @@
+# Introduction #
+
+9. instalacija i podešavanje Quice-a na admin računalo
+web page: http://quice.indomit.ru/?act=0&lang=en
+
+
+
+# Details #
+## O Quice-u ##
+Quice je MaNGOS database Editor
+Ima mogučnost Quest Editor, Creature Editor, GameObject Editor, Item Editor, i još manjih mogučnosti.
+## Instalacija ##
+Sa ove stranice skinemo odgovarajuću verziju (1.2.47)
+
+http://quice.indomit.ru/?act=2&lang=en
+
+otpakiramo te pokrenemo.
+
+## Spajanje ##
+
+Nakon pokretanja Quicea u formi moramo popuniti odogvarajuče podatke:
+Ime servera, Username, Password, Port. Te nakon toga izaberemo characters, mangos,relmd i script. Kako forma izgleda možete pogledati ovdje: ![http://quice.indomit.ru/screens/00.gif](http://quice.indomit.ru/screens/00.gif)
+
+
+Pod server napišemo ip adresu i port servera na kojem se nalazi sql baza te zatim odgovarajući username i password.
